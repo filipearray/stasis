@@ -12,7 +12,7 @@ function average(g1, g2){
 
 function passed(average){
     if (average > 7) {
-        return "Approved!";  
+        return "Approved!";
     } else {
         return "Reproved!";
     };
