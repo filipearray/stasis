@@ -26,4 +26,4 @@ for (let index in names){
     let avrg = average(grds1, grds2);
 
  console.log(names[index] + " - " + grds1 + " - " + grds2 + " - " + avrg + " - " + passed(avrg));
-};  
+};
